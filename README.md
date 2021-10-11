@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Amarjeet Kumar.
-- 👀 having 1+ of experience in software development.
+- 👀 having 1+ yr of experience in software development.
 - 🌱 My skills:
                => Javascript
                => Typescript
                => React&Redux
-               => Angular
                => Vuejs 
                => Nodejs(Express)
                => progressive Web Apps(PWA)
